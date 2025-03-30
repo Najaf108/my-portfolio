@@ -3,43 +3,43 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
-    title: "Weather App",
-    description: "A modern portfolio website built with React and Tailwind CSS.",
-    image: "/src/assets/weather.PNG", // Replace with an actual image URL
+    title: "Real-time Weather App",
+    description: "The weather app background changes with the weather of searched city.",
+    image: "/weather.PNG", // Replace with an actual image URL
     link: "https://rad-swan-d872f3.netlify.app/",
     techStack: ["Vue", "CSS", "Weather API"]
   },
   {
     title: "E-commerce App",
-    description: "A scalable e-commerce platform with secure payment integration.",
+    description: "An e-commerce platform frontend built with react.js and tailwindcss.",
     image: "/src/assets/e-commerce.PNG", // Replace with an actual image URL
     link: "https://luxury-kringle-a52a05.netlify.app/",
     techStack: ["React", "Tailwind CSS"]
   },
   {
     title: "Marketing Agency",
-    description: "A full-stack blog application with user authentication.",
+    description: "Marketing agency website frontend built with simple HTML, CSS and JavaScript.",
     image: "/src/assets/marketing.PNG", // Replace with an actual image URL
     link: "https://najaf108.github.io/marketing-agency/",
     techStack: ["HTML", "CSS", "JavaScript"]
   },
   {
     title: "Admin Dashboard",
-    description: "A full-stack blog application with user authentication.",
+    description: "Dashboard frontend for admin built with React, tailwind and material UI.",
     image: "/src/assets/dashboard.PNG", // Replace with an actual image URL
     link: "#",
     techStack: ["React", "Tailwind CSS", "Material UI", "Chart.js"]
   },
   {
     title: "Real-time Chat app",
-    description: "A full-stack blog application with user authentication.",
+    description: "Users can chat in real-time built with websockets and react.js",
     image: "/src/assets/chatapp.PNG", // Replace with an actual image URL
     link: "#",
     techStack: ["React", "Socket.io", "Node.js", "Express.js"]
   },
   {
     title: "Point of Sale System",
-    description: "A full-stack blog application with user authentication.",
+    description: "A basic POS system frontend designed with vue.js and tailwindcss.",
     image: "/src/assets/pos.PNG", // Replace with an actual image URL
     link: "https://fascinating-marzipan-097cd6.netlify.app/",
     techStack: ["Vue", "Tailwind CSS",]
